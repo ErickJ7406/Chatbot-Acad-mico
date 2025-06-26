@@ -4,8 +4,8 @@ Este proyecto es un chatbot inteligente diseñado para responder preguntas sobre
 
 En lugar de una simple búsqueda por palabras clave, el chatbot comprende el significado semántico de las preguntas y encuentra los fragmentos más relevantes del libro, proporcionando respuestas coherentes y contextualizadas.
 
-![Captura de Pantalla del Chatbot](![image](https://github.com/user-attachments/assets/6623b192-3d00-4a1f-9a53-8042cc3c624d)
-)
+![image](https://github.com/user-attachments/assets/9a8029ea-f166-4062-b20e-629019eae503)
+
 
 ---
 
