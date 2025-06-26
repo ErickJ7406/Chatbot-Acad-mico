@@ -1,6 +1,6 @@
 # 📚 Chatbot Académico con Búsqueda Semántica
 
-Este proyecto es un chatbot inteligente diseñado para responder preguntas sobre un libro de texto específico ("Introducción a la Inteligencia Artificial") utilizando técnicas avanzadas de Procesamiento de Lenguaje Natural (PLN).
+Este proyecto es un chatbot inteligente diseñado para responder preguntas sobre un libro de texto específico ("Fundamentos de la Inteligencia Artificial: Una Visión Introductoria").
 
 En lugar de una simple búsqueda por palabras clave, el chatbot comprende el significado semántico de las preguntas y encuentra los fragmentos más relevantes del libro, proporcionando respuestas coherentes y contextualizadas.
 
